@@ -1,4 +1,4 @@
-Language:ruby
+language: ruby
 before_script:
   - rm -rf public
 script:
